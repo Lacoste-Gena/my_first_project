@@ -20,4 +20,5 @@ public class homework1 {
         System.out.print((myString + newLine).repeat(3));
     }
 
+
 }
