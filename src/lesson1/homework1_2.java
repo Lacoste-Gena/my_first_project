@@ -7,9 +7,9 @@ public class homework1_2 {
     //Пример результата вывода на экран:
     //21.0
     public static void main(String[] args) {
-        int a = 70;
-        int b = 2;
-        int x = a/(b*b);
+        float a = 70.0f;
+        float b = 2.0f;
+        float x = a/(b*b);
         System.out.println(x);
     }
 }
