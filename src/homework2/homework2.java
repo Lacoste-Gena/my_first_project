@@ -10,6 +10,5 @@ public class homework2 {
             System.out.print(x+ "a " );
             x++;
             }
-
     }
 }
