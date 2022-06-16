@@ -10,6 +10,6 @@ public class homework1_2 {
         double a = 70.0;
         double b = 1.8;
         double x = a/(b*b);
-        System.out.println(x);
+        System.out.println(x);;
     }
 }
