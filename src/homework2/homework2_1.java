@@ -1,5 +1,5 @@
 package homework2;
-public class homework2 {
+public class homework2_1 {
     public static void main(String[] args) {
         // Домашка
         // Базовый уровень
