@@ -5,8 +5,8 @@ public class homework2_3 {
         // Задание №3
         // Дано:
         boolean chicken = false;
-        boolean vegetables = false;
-        boolean souce = false;
+        boolean vegetables = true;
+        boolean souce = true;
         boolean toast = false;
         boolean sausage = false;
         boolean eggs = false;
