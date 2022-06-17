@@ -22,6 +22,9 @@ public class homework2_3 {
             System.out.println("салат Цезарь");}
         else if (vegetables && sausage && eggs){
                 System.out.println("салат Оливье");}
+        else if(vegetables && souce){
+            System.out.println("овощной салат");
+        }
         else {
             System.out.println("Ничего нет");}
     }
